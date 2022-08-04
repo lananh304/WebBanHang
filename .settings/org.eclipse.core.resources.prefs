@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/webbansach/admincontroller/DanhmucController.java=UTF-8
+encoding//src/main/java/webbansach/admincontroller/DonHangController.java=UTF-8
+encoding//src/main/java/webbansach/admincontroller/SanPhamController.java=UTF-8
+encoding//src/main/java/webbansach/admindao/DonHangDao.java=UTF-8
+encoding//src/main/java/webbansach/usercontroller/FogotPassController.java=UTF-8
+encoding//src/main/java/webbansach/usercontroller/LoginController.java=UTF-8
+encoding//src/main/java/webbansach/usercontroller/LoginGoogleController.java=UTF-8
+encoding//src/main/java/webbansach/usercontroller/MyAccountController.java=UTF-8
+encoding//src/main/java/webbansach/usercontroller/ProductController.java=UTF-8
+encoding//src/main/java/webbansach/usercontroller/UserController.java=UTF-8
+encoding//src/main/java/webbansach/userdao/BillsDao.java=UTF-8
+encoding//src/main/java/webbansach/userentity/Users.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/donhang.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/detailproduct.jsp=UTF-8

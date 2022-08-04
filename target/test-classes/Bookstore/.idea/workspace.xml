@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b9b2850-ec16-416f-b51b-833fbf086601" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SrqSvJoO02nRBGxcVwBsmE5qIe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\WebstormProjects\boighor\images\logo" />
+      <recent name="C:\Users\Admin\WebstormProjects\boighor\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\temlapteWeb\Nhom09_Bansachonline\Bookstore\js" />
+      <recent name="D:\temlapteWeb\Nhom09_Bansachonline\Bookstore\images\form" />
+      <recent name="E:\abc\boighor" />
+      <recent name="C:\Users\Admin\WebstormProjects\boighor\images" />
+      <recent name="C:\Users\Admin\WebstormProjects\boighor\images\books" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b9b2850-ec16-416f-b51b-833fbf086601" name="Default Changelist" comment="" />
+      <created>1572332065121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572332065121</updated>
+      <workItem from="1572332066805" duration="1826000" />
+      <workItem from="1572345178377" duration="19000" />
+      <workItem from="1572692639990" duration="48000" />
+      <workItem from="1572692848679" duration="7664000" />
+      <workItem from="1572775906825" duration="6167000" />
+      <workItem from="1572803886964" duration="9084000" />
+      <workItem from="1572876007633" duration="3191000" />
+      <workItem from="1572931760374" duration="7078000" />
+      <workItem from="1572941351293" duration="22699000" />
+      <workItem from="1573103659170" duration="1672000" />
+      <workItem from="1573195679875" duration="4932000" />
+      <workItem from="1573206448905" duration="7137000" />
+      <workItem from="1573394258668" duration="4365000" />
+      <workItem from="1573490126483" duration="569000" />
+      <workItem from="1573528565262" duration="4771000" />
+      <workItem from="1573556881558" duration="223000" />
+      <workItem from="1573565191332" duration="2904000" />
+      <workItem from="1573656955997" duration="256000" />
+      <workItem from="1573657529208" duration="2217000" />
+      <workItem from="1573721529932" duration="1132000" />
+      <workItem from="1617517266786" duration="26470000" />
+      <workItem from="1620731069526" duration="596000" />
+      <workItem from="1621790057045" duration="425000" />
+      <workItem from="1622305007114" duration="2601000" />
+      <workItem from="1622308291138" duration="628000" />
+      <workItem from="1622308962163" duration="10123000" />
+      <workItem from="1622383163634" duration="2385000" />
+      <workItem from="1622385864244" duration="5024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617532271558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1617532271558" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1622313329851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622313329851" />
+    <state x="300" y="111" width="587" height="534" key="find.popup" timestamp="1622314301546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="111" width="587" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1622314301546" />
+  </component>
+</project>
